@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T02:44:29.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.2.9" etag="b3TwFsz8mb2fuR1FppMt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T02:51:17.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OI5DmL2vFHkS18UEsdV8" version="21.2.9" type="github">
   <diagram name="第 1 页" id="lbXMjJcNemHHPHKYe6F8">
-    <mxGraphModel>
+    <mxGraphModel dx="724" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u8aChlNTA4QG6k91gcyH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="u8aChlNTA4QG6k91gcyH-1" target="u8aChlNTA4QG6k91gcyH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="387.48571428571427" y="183" as="sourcePoint" />
+            <mxPoint x="253.5" y="236" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="387" y="211" />
+              <mxPoint x="253" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="u8aChlNTA4QG6k91gcyH-1" target="u8aChlNTA4QG6k91gcyH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="211" />
+              <mxPoint x="521" y="211" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-1" value="系统架构" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="134" width="99" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="u8aChlNTA4QG6k91gcyH-2" target="u8aChlNTA4QG6k91gcyH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="u8aChlNTA4QG6k91gcyH-2" target="u8aChlNTA4QG6k91gcyH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-2" value="上层控制层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202" y="235" width="103" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u8aChlNTA4QG6k91gcyH-4" target="u8aChlNTA4QG6k91gcyH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u8aChlNTA4QG6k91gcyH-4" target="u8aChlNTA4QG6k91gcyH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u8aChlNTA4QG6k91gcyH-4" target="u8aChlNTA4QG6k91gcyH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-4" value="中间逻辑层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="235" width="103" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u8aChlNTA4QG6k91gcyH-5" target="u8aChlNTA4QG6k91gcyH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u8aChlNTA4QG6k91gcyH-5" target="u8aChlNTA4QG6k91gcyH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-5" value="底层硬件驱动层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="235" width="103" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-9" value="接收遥控器信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="316" width="35" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-10" value="控制指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="316" width="35" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-11" value="飞行器姿态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="316" width="35" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-12" value="飞行器高度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="316" width="35" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-13" value="飞行器位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="316" width="35" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-14" value="电机控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="316" width="35" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="u8aChlNTA4QG6k91gcyH-15" value="传感器数据获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532" y="316" width="35" height="108" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
