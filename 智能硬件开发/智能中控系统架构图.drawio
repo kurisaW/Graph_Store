@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T05:58:14.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="hlT0Ar3B3vttzLtdyugU" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T05:29:03.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0aJsHmwrY2wQf4kgAQ4m" version="21.2.9" type="github">
   <diagram name="第 1 页" id="sPoewAN0UP_DKyfQgz5s">
-    <mxGraphModel dx="1290" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,34 +92,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B56POfw25FeHeTBuyLM_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1471" y="115" as="sourcePoint" />
-            <mxPoint x="1298" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1471" y="151" />
-              <mxPoint x="1298" y="151" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B56POfw25FeHeTBuyLM_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1471" y="115" as="sourcePoint" />
+            <mxPoint x="1471" y="153" as="sourcePoint" />
             <mxPoint x="1471" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B56POfw25FeHeTBuyLM_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1471" y="115" as="sourcePoint" />
+            <mxPoint x="1471" y="153" as="sourcePoint" />
             <mxPoint x="1644.0000000000005" y="190" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1471" y="151" />
               <mxPoint x="1644" y="151" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="B56POfw25FeHeTBuyLM_-17" value="智能中控系统" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1416" y="82" width="112" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ePoYoBtov8BMeXNs0YkV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="B56POfw25FeHeTBuyLM_-28" target="B56POfw25FeHeTBuyLM_-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -249,6 +236,47 @@
         </mxCell>
         <mxCell id="ePoYoBtov8BMeXNs0YkV-13" value="结束" style="whiteSpace=wrap;strokeWidth=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="779.45" y="726" width="112" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="YIUNQNVJPtazDfS7FPeP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YIUNQNVJPtazDfS7FPeP-1" target="YIUNQNVJPtazDfS7FPeP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIUNQNVJPtazDfS7FPeP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YIUNQNVJPtazDfS7FPeP-1" target="YIUNQNVJPtazDfS7FPeP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIUNQNVJPtazDfS7FPeP-1" value="自控模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1762" y="190" width="112" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="YIUNQNVJPtazDfS7FPeP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YIUNQNVJPtazDfS7FPeP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="151.40000915527344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIUNQNVJPtazDfS7FPeP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YIUNQNVJPtazDfS7FPeP-2" target="B56POfw25FeHeTBuyLM_-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1560" y="151" />
+              <mxPoint x="1299" y="151" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIUNQNVJPtazDfS7FPeP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1560" y="105" as="sourcePoint" />
+            <mxPoint x="1818" y="189" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1560" y="151" />
+              <mxPoint x="1818" y="151" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIUNQNVJPtazDfS7FPeP-2" value="智能中控系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1504" y="73" width="112" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="YIUNQNVJPtazDfS7FPeP-7" value="风扇控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1762" y="275" width="36" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="YIUNQNVJPtazDfS7FPeP-8" value="LED控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1838" y="275" width="36" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
