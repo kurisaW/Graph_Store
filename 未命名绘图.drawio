@@ -77,13 +77,13 @@
           <mxGeometry x="859" y="386" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ha_QL4AD3pHfb7NoFILa-34" value="ep-&amp;gt;callback" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="351" y="616.5" width="108.5" height="43" as="geometry" />
+          <mxGeometry x="451.25" y="618" width="108.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ha_QL4AD3pHfb7NoFILa-35" value="&lt;span style=&quot;font-family: Consolas; font-size: 13.3333px; white-space: pre; background-color: rgb(212, 212, 212); text-decoration-line: underline;&quot;&gt;rpmsg_lite_rx_callback&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="459.5" y="594.5" width="170.5" height="43" as="geometry" />
+          <mxGeometry x="559.75" y="596" width="170.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ha_QL4AD3pHfb7NoFILa-39" value="&lt;span style=&quot;font-family: Consolas; font-size: 13.3333px; white-space: pre; background-color: rgb(212, 212, 212); text-decoration-line: underline;&quot;&gt;rpmsg_lite_tx_callback&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="459.5" y="637.5" width="170.5" height="43" as="geometry" />
+          <mxGeometry x="559.75" y="639" width="170.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ha_QL4AD3pHfb7NoFILa-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ha_QL4AD3pHfb7NoFILa-40" target="ha_QL4AD3pHfb7NoFILa-42">
           <mxGeometry relative="1" as="geometry" />
